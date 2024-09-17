@@ -49,6 +49,19 @@
 *.Rmd linguist-detectable=true
 *.Rmd linguist-documentation=false
 *.Rmd linguist-language=RMarkdown
+# REALBasic source file
+*.rbbas linguist-detectable=true
+*.rbbas linguist-documentation=false
+*.rbbas linguist-language=REALBasic
+*.rbfrm linguist-detectable=true
+*.rbfrm linguist-documentation=false
+*.rbfrm linguist-language=REALBasic
+*.rbres linguist-detectable=true
+*.rbres linguist-documentation=false
+*.rbres linguist-language=REALBasic
+*.rbvcp linguist-detectable=true
+*.rbvcp linguist-documentation=false
+*.rbvcp linguist-language=REALBasic
 # Makefile (GNU Make)
 *.mk linguist-detectable=true
 *.mk linguist-documentation=false
@@ -183,7 +196,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Wednesday, August 28th at 03:02 pm PST)
-# Line count (including blank lines and compiler line): 190
+# File version: 6 (2024, Monday, September 16th at 08:34 pm PST)
+# Line count (including blank lines and compiler line): 203
 
 # End of script
